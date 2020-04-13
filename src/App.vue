@@ -4,19 +4,13 @@
   
   <div class="container d-flex flex-column justify-content-center ">
          <navi-app></navi-app>
-        
        <router-view></router-view>
-    <!-- add moving js element words side to side -->
-      <!-- fade in list items -->
-    
     <div class="justify-content-center row-8 ">
     <div>Icons made by <a href="https://www.flaticon.com/authors/ddara" title="dDara">dDara</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a></div><div>Icons made by 
     <a href="https://www.flaticon.com/authors/pixelmeetup" title="Pixelmeetup">Pixelmeetup</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a></div><div>Icons made by <a href="https://www.flaticon.com/authors/wanicon" title="wanicon">wanicon</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a></div></div>
     <p>A images have been searched under<i>Use and Reuse</i> and used for edu. purposes only!</p>
     <p><i><small class="red">Dispute a &copy;Copyright againt this students profile?</small></i> Contact <a href="mailto:jasonure@mail.weber.edu?Subject=Requsted%20&copy;Copy%20claim">Me</a></p>
 
-      
-  <!-- three icons martin lurthar king, indian dance Icon, womens writes leader-->
       </div>
     </body>
   
@@ -24,12 +18,8 @@
 
 <script>
 import navi from './components/Navi.vue'
-// import jumpStart from './components/JumpStart.vue'
-// import icons from './components/icons.vue'
 export default {
 components: {
-  // jumpStartApp: jumpStart,
-  // iconsApp: icons,
   naviApp: navi
 
 }
