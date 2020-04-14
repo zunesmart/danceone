@@ -2,12 +2,13 @@
 <body >
        
     <div class="bgimg jusify-content-center">
-    <h1>Just Tango</h1>
-    <li><i>slow</i></li>
-    <li><i>slow</i></li>
-    <li><i>quick</i></li>
-    <li><i>quick</i></li>
-    <li><i>slow</i></li>
+    <h1>Just</h1>
+    <h1 class="he">T</h1>
+    <h1 class="he">a</h1>
+    <h1 class="he">n</h1>
+    <h1 class="he">g</h1>
+    <h1 class="he">o</h1>
+    <li><i>slow, slow, quick, quick, slow!</i></li>
     </div>
     <div>
 
@@ -114,3 +115,11 @@ payscale.com/research/US/Job=Dance_Movement_Therapist/Salary</a>
 </div>
 </body>  
 </template>
+<style>
+    .he {
+        padding-top: 0em;
+        padding-bottom: 0em;
+        margin-top: 0em;
+        line-height: .9;
+    }
+</style>

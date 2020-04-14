@@ -8,7 +8,7 @@
     <div class="justify-content-center row-8 ">
     <div>Icons made by <a href="https://www.flaticon.com/authors/ddara" title="dDara">dDara</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a></div><div>Icons made by 
     <a href="https://www.flaticon.com/authors/pixelmeetup" title="Pixelmeetup">Pixelmeetup</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a></div><div>Icons made by <a href="https://www.flaticon.com/authors/wanicon" title="wanicon">wanicon</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a></div></div>
-    <p>A images have been searched under<i>Use and Reuse</i> and used for edu. purposes only!</p>
+    <p>A images have been searched under <i>For Use and Reuse</i> and used for edu. purposes only!</p>
     <p><i><small class="red">Dispute a &copy;Copyright againt this students profile?</small></i> Contact <a href="mailto:jasonure@mail.weber.edu?Subject=Requsted%20&copy;Copy%20claim">Me</a></p>
 
       </div>
@@ -98,4 +98,6 @@ html, body {
   h1, h2, h3, h4, h5 {
     font-family: 'Poiret One', cursive;
   }
+
+  
 </style>

@@ -1,14 +1,22 @@
 <template>
 <body >
         <div class="bgimg3 jusify-content-center">
-    <h1>Just Dance</h1>
-    <li><i>Slide to the right</i></li>
-    <li><i>Slide to the Left</i></li>
-    <li><i>Criss Cross</i></li>
-    <li><i>Criss Cross</i></li>
-    <li><i>Clap your hands</i></li>
-    <li><i>Limbo</i></li>
-    <li><i>shake</i></li>
+    <h1>Just</h1>
+    <transition name="one" type="transition" appear>
+        <li><i>Slide to the right</i></li>
+    </transition>       
+    <transition name="two" type="transition" appear>
+        <li><i>Slide to the Left</i></li>
+    </transition>
+    <transition name="three" type="transition" appear>
+        <li><i>Criss Cross</i></li>
+    </transition>
+    <transition name="four" type="transition" appear>
+         <li><i>Criss Cross</i></li>
+    </transition>
+    <transition name="five" type="transition" appear>
+        <li><i>Clap your hands</i></li>
+    </transition>
     </div>
     <div>
         <h2>Why Do I dance? What is dance for me?</h2>
@@ -77,4 +85,43 @@
     font-weight: bold;
     text-align: center;
 }
+
+.one-enter{
+  opacity: 0;
+
+}
+.one-enter-active{
+  transition: opacity 2s;
+}
+.two-enter{
+  opacity: 0;
+
+}
+.two-enter-active{
+  transition: opacity 3s;
+}
+.three-enter{
+  opacity: 0;
+
+}
+.three-enter-active{
+  transition: opacity 5s;
+}
+.four-enter{
+  opacity: 0;
+
+}
+.four-enter-active{
+  transition: opacity 6s;
+}
+.five-enter{
+  opacity: 0;
+
+}
+.five-enter-active{
+  transition: opacity 8s;
+}
+
+
+
 </style>
