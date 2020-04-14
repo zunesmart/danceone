@@ -11,3 +11,9 @@
             id="option3">Comment</router-link>
        </div>  
         </template> 
+        <style scoped>
+             li {
+                  font-family: 'Poiret One', cursive;
+                    font-weight: 150;
+             }
+        </style>
