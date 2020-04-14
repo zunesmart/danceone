@@ -2,13 +2,13 @@
 <body >
         <div class="bgimg3 jusify-content-center">
     <h1>Just Dance</h1>
-    <li><i>Twist</i></li>
-    <li><i>Kneel</i></li>
-    <li><i>backflip</i></li>
-    <li><i>bend</i></li>
-    <li><i>crouch</i></li>
-    <li><i>Handwave</i></li>
-    <li><i>Lay down</i></li>
+    <li><i>Slide to the right</i></li>
+    <li><i>Slide to the Left</i></li>
+    <li><i>Criss Cross</i></li>
+    <li><i>Criss Cross</i></li>
+    <li><i>Clap your hands</i></li>
+    <li><i>Limbo</i></li>
+    <li><i>shake</i></li>
     </div>
     <div>
         <h2>Why Do I dance? What is dance for me?</h2>

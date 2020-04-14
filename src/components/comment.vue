@@ -2,14 +2,12 @@
 <body >
        
     <div class="bgimg jusify-content-center">
-    <h1>Just Dance</h1>
-    <li><i>Twist</i></li>
-    <li><i>Kneel</i></li>
-    <li><i>backflip</i></li>
-    <li><i>bend</i></li>
-    <li><i>crouch</i></li>
-    <li><i>Handwave</i></li>
-    <li><i>Lay down</i></li>
+    <h1>Just Tango</h1>
+    <li><i>slow</i></li>
+    <li><i>slow</i></li>
+    <li><i>quick</i></li>
+    <li><i>quick</i></li>
+    <li><i>slow</i></li>
     </div>
     <div>
 

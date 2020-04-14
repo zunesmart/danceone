@@ -30,14 +30,15 @@
     <hr>
   </div>
     <small class="red"><i>Compiled explanation By: Jason Ure August 11, 2020</i></small>
+    <i><small>*an simple direct to "why do humans dance?"</small></i>
     <h3>For Expression and Freedom</h3>
     
     <p>People over the decades and centuries have made great way into dance by expression
       and freedom. A good example to look out is the tribes of the native americans and how they dance. They have shown great love for their ancestors
-      and family by religious/ancestry dancing. This was passed down generation to generation and still is strong in the indian culture today. Another example of
+      and family by religious/ancestry dancing. This was passed down generation to generation and still is dominit in the indian culture today. Another example of
       expression and freedom in dance is culture dance. You can really tell how people behave or act by the type dance they do, for example
-      african dance (which later transpired jazz dance in america). Because of the light and spirit of afican dance, I have a firm belief that it 
-      has made way of their freedom, personality, and integrity here in america or in their state. Naturally there are a lot of examples of movements in dance
+      african dance (which later transpired jazz dance in america). The light and spirit of afican dance just shows how moving and uplifting their culture is. I have a firm belief that dance has played a huge role
+      in their freedom, personality, and integrity here in america or own native country. Naturally there are a lot of examples of movements in dance
       that transform actual movements in this political world.
     </p>
     <icon-app></icon-app>
